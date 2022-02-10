@@ -1,0 +1,33 @@
+ol{
+    list-style-type: square;
+  }
+  
+  ul{
+    list-style-type: upper-alpha;
+  }
+  ol{
+    list-style-type: square;
+  }
+  .second{ 
+    list-style-type: disc;
+  }
+  
+  ul{
+    list-style-type: upper-alpha;
+  }
+  
+  .third{
+    list-style-type: circle;
+  }
+    
+  .forth{
+    list-style-type: upper-roman;
+  }
+  .fifth{ 
+    list-style-type: circle;
+    list-style-position: inside;
+  }
+  .sixth{
+    list-style-image: linear-gradient(to left bottom, green, blue);
+    list-style-position: outside;
+  }
